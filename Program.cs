@@ -6,6 +6,7 @@ using System.Runtime.InteropServices;
 using System.Runtime.Intrinsics.X86;
 
 // проект практическая работа номер 1
+
 public interface IMcdonalds
 {
     void DisplayInfo();
